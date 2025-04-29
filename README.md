@@ -22,4 +22,4 @@ A notebook designed to scrape real estate data from Property24, facilitating the
 ### Urban Tree Canopy Analysis on CUNY Campuses
 **Notebook**: [`urban_tree_canopy_cuny.ipynb`](TreeCanopy_CUNY.ipynb)
 
-This notebook presents a spatial analysis and data vizualization of urban tree canopy coverage across City University of New York (CUNY) campuses for [NYC Climate Justice Hib](https://centerforthehumanities.org/project/climate-justice-hub/). 
+This notebook presents a spatial analysis and data vizualization of urban tree canopy coverage across City University of New York (CUNY) campuses for [NYC Climate Justice Hub](https://centerforthehumanities.org/project/climate-justice-hub/). 
